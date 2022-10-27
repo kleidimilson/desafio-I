@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="#Desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;s&nbsp;&nbsp;&nbsp;
+  <a href="#Desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 </p>
 
