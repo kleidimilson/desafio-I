@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite" src="https://www.notion.so/3f02cfaaf69546c2bd73e74dd4b9c87e#a66755bd7a674c6caa091005d9861b3f" width="200px" />
+    <img alt="allyhub" src="https://allyhub.co/images/Logo.png" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="#Desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;s&nbsp;&nbsp;&nbsp;
  
 </p>
 
